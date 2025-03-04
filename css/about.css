@@ -1,0 +1,46 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+
+.media-section h3 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: var(--text);
+}
+
+.media-list {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.media-list a {
+  color: var(--text);
+  font-size: 2.5rem;
+  transition: all 0.3s ease;
+  display: inline-block;
+  width: 3.5rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.media-list a:hover {
+  color: var(--hover);
+  transform: translateY(-3px);
+  background: var(--secondary);
+}
+
+@media (max-width: 768px) {
+  .media-list {
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  .media-list a {
+    font-size: 2rem;
+    width: 3rem;
+    height: 3rem;
+  }
+}
