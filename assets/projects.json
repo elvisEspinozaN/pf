@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Party Planner - Event Management",
+    "description": "This project involved building a Party Planner website where users can view, add, delete events.",
+    "summary": "Built a party planning app to view, add, and delete events using JavaScript and DOM manipulation.",
+    "image": "https://camo.githubusercontent.com/c2cbf34ecb7f308d9bc0c17cc1147ff8d05dcdf9049d2c19b8e2966067a0cb2e/68747470733a2f2f692e696d6775722e636f6d2f4c7a6344306f5a2e706e67",
+    "technologies": ["JavaScript", "HTML/CSS", "DOM Manipulation"],
+    "demoUrl": "https://party-planner-mngmt.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/Unit2.PartyPlanner"
+  },
+  {
+    "id": 2,
+    "title": "Puppy List with Data Manipulation",
+    "description": "This project focused on manipulating and displaying data in React. The goal was to create a list of puppies and allow users to click on a name to display detailed information about the selected puppy.",
+    "summary": "Created a React app to manage and display puppy data with interactive detail views.",
+    "image": "https://camo.githubusercontent.com/f2da256f2327e30d5a8ebdebbc2b9f829cb1ebaee4fb8190e2ade4c4030423f6/68747470733a2f2f692e696d6775722e636f6d2f6b306d6b674c4b2e706e67",
+    "technologies": ["React", "JavaScript"],
+    "demoUrl": "https://puppypals-react.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/Puppy-Pals"
+  },
+  {
+    "id": 3,
+    "title": "Contact List with Data Fetching",
+    "description": "This project focused on fetching and displaying data dynamically in a React app. The goal was to create a contact list application where users could view a table of contacts fetched from an external API.",
+    "summary": "Built a React contact list app that fetches and displays data from an external API.",
+    "image": "https://camo.githubusercontent.com/3740ff7bae219430021849d489ad34844cea629354d2aeaa3ba843f56e2ca0c2/68747470733a2f2f692e696d6775722e636f6d2f377133654368522e706e67",
+    "technologies": ["React", "JavaScript", "Fetch API"],
+    "demoUrl": "https://contact-list-r.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/contact-list"
+  },
+  {
+    "id": 4,
+    "title": "Authentication with JWT",
+    "description": "This project involved building a controlled form in React that interacts with an external API for user authentication.",
+    "summary": "Created a React form with JWT authentication using an external API.",
+    "image": "https://camo.githubusercontent.com/042acd19104ff664d4e681e2b8a558afaeae4ee8f7a367b6409b655452728697/68747470733a2f2f692e696d6775722e636f6d2f747377457054752e706e67",
+    "technologies": ["React", "JavaScript", "Fetch API"],
+    "demoUrl": "https://react-forms-auth.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/react-auth-forms"
+  },
+  {
+    "id": 5,
+    "title": "Puppy Bowl with RTK Query",
+    "description": "A React application for managing Puppy Bowl participants using Redux Toolkit Query (RTK Query). Users can view the player roster, add new players, see detailed player information, and remove players from the roster.",
+    "summary": "Managed Puppy Bowl players with React and RTK Query for dynamic roster updates.",
+    "image": "https://camo.githubusercontent.com/7cc08f5668317f9edd7e0003f9e2cd1cd2e21e6f39d4770766456b7477ddf8ec/68747470733a2f2f692e696d6775722e636f6d2f47664662444f4c2e706e67",
+    "technologies": ["React", "Redux Toolkit", "RTK Query"],
+    "demoUrl": "https://puppy-bowl-rtk.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/PuppyBowl"
+  },
+  {
+    "id": 6,
+    "title": "React Router",
+    "description": "A simple React application demonstrating client-side routing using React Router. Features multiple color-themed pages.",
+    "summary": "Showcased React Router features with multiple themed pages in a SPA.",
+    "image": "https://camo.githubusercontent.com/03624cc5260900525b65190af863aa5b4d47fc168403b6382ecdcece16e176fc/68747470733a2f2f692e696d6775722e636f6d2f3266334f3433772e706e67",
+    "technologies": ["React", "React Router DOM"],
+    "demoUrl": "https://react-router-color-theme.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/React-Router"
+  },
+  {
+    "id": 7,
+    "title": "Book Buddy",
+    "description": "A modern library management application built with React and Redux Toolkit (RTK). Users can browse books, manage reservations, and maintain their reading history. Features secure authentication and real-time data synchronization.",
+    "summary": "Built a React + Redux library app with authentication and real-time sync features.",
+    "image": "https://camo.githubusercontent.com/5e63de4b074d4d30673051b2fb73158993347ab1dd79d48e1d22c3a2204de2b4/68747470733a2f2f692e696d6775722e636f6d2f4931684f5853562e706e67",
+    "technologies": ["React", "Redux Toolkit", "RTK Query", "BookBuddy API"],
+    "demoUrl": "https://book-buddy-redux.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/Book-Buddy"
+  },
+  {
+    "id": 8,
+    "title": "The Market - Full-Stack E-commerce App",
+    "description": "The Market is a full-stack e-commerce platform that allows users to browse products, manage a persistent cart, and securely check out. Admin users can manage product inventory and user roles through a dedicated dashboard.",
+    "summary": "Built a full-stack e-commerce site with authentication, persistent carts, admin controls, and a PostgreSQL backend.",
+    "image": "https://camo.githubusercontent.com/874caaf87ca9d71a105d598121d63c7e3f5bf5c0e158cba688a3778b7eb24374/68747470733a2f2f692e696d6775722e636f6d2f4a5577354b676a2e706e67",
+    "technologies": [
+      "React",
+      "Redux Toolkit",
+      "RTK Query",
+      "Express",
+      "PostgreSQL",
+      "JWT",
+      "CSS Modules"
+    ],
+    "demoUrl": "https://the-market-app.netlify.app/",
+    "detailsUrl": "https://github.com/elvisEspinozaN/the-market"
+  }
+]

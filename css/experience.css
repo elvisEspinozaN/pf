@@ -1,0 +1,72 @@
+.experience-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.experience-item {
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.experience-item:hover {
+  transform: translateY(-3px);
+}
+
+.company-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+
+.experience-content h3 {
+  color: var(--text);
+  margin-bottom: 0.75rem;
+  font-size: 1.3rem;
+}
+
+.experience-dates {
+  color: var(--text);
+  opacity: 0.8;
+  margin-bottom: 0.5rem;
+}
+
+.experience-location {
+  color: var(--text);
+  opacity: 0.8;
+  margin-bottom: 1rem;
+}
+
+.experience-bullets {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.experience-bullets li {
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+
+.experience-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .company-logo {
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  .company-logo {
+    width: 60px;
+    height: 60px;
+  }
+}

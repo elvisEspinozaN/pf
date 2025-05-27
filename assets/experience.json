@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "logo": "https://example.com/fedex-logo.png",
+    "position": "Training Coordinator",
+    "company": "FedEx Ground",
+    "jobType": "Part-time",
+    "dates": "May 2019 - Present",
+    "location": "New York, New York, United States · On-site",
+    "bullets": [
+      "Developed training programs for 100+ employees, resulting in a 25% increase in operational efficiency and a 20% reduction in errors",
+      "Led a team of 20+, decreasing turnover by 20% through effective mentoring and regular performance evaluations",
+      "Enhanced safety protocols, contributing to a 40% reduction in workplace incidents by prioritizing a “Safety Above All” culture",
+      "Streamlined administrative processes, improving compliance and operational efficiency by 15%"
+    ],
+    "skills": [
+      "Team Management",
+      "Training and Development (HR)",
+      "Safety Compliance",
+      "Process Optimization",
+      "Performance Evaluation"
+    ]
+  },
+  {
+    "id": 2,
+    "logo": "https://example.com/genspark-logo.png",
+    "position": "Java Full Stack Developer",
+    "company": "GenSpark",
+    "jobType": "Full-time",
+    "dates": "Jun 2022 - Jan 2023",
+    "location": "New York City Metropolitan Area · Remote",
+    "bullets": [
+      "Architected and deployed a RESTful API using Java Spring Boot and MySQL with Hibernate integration, optimizing data retrieval by 25% and reducing processing time",
+      "Enhanced code reliability through 20+ JUnit tests, reducing code errors by 15%",
+      "Standardized project documentation, increasing team productivity by 15% and reducing development time by 25%",
+      "Improved front-end performance with React and AWS, achieving a 20% boost in application speed and 15% higher user engagement",
+      "Reduced bug reports by 30% and resolution time by 20% through a structured troubleshooting approach"
+    ],
+    "skills": [
+      "Java Spring Boot",
+      "React",
+      "AWS",
+      "RESTful APIs",
+      "MySQL",
+      "Hibernate",
+      "JUnit",
+      "Technical Documentation"
+    ]
+  }
+]
